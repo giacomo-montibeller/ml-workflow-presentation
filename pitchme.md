@@ -19,7 +19,7 @@ Estimate size of the machine learning component with respect to the overall ecos
 
 ---
 
-![](assets/ml-ecosystem.png)
+![bg width:1300](assets/ecosystem.svg)
 <!-- Una parte di questi blocchi viene gestita da altri sistemi (ad esempio un cloud provider può occuparsi di architettura e gestione delle macchine) -->
 
 ---
