@@ -28,7 +28,7 @@ Estimate size of the machine learning component with respect to the overall ecos
 
 ---
 
-![](assets/pipelines-detail.png)
+![bg width:1000](assets/pipelines-detail.png)
 <!-- Ognuno di questi strati si occupa di produrre un artefatto che viene utilizzato dallo strato successivo.
 Si tratta di 3 pipeline distinte, ognuna lavorata da un team con competenze diverse, con architetture, linguaggi e tipi di artefatti diversi.
 Vengono gestiti come 3 sistemi diversi in integrazione tra loro. -->
