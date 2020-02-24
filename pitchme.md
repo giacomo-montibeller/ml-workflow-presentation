@@ -7,6 +7,7 @@ description: Created with md-slides-template
 ---
 
 # Machine Learning workflow
+<!-- L'obiettivo di questa presentazione è quello di sollevare la seguente domanda: "il workflow di un progetto di machine learning cambia rispetto a quello dello sviluppo software tradizionale? e se si, come?" -->
 
 ---
 
@@ -46,7 +47,7 @@ L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo l
 
 ---
 
-# API | Embed
+![bg width:600](assets/deployment.svg)
 
 ---
 
