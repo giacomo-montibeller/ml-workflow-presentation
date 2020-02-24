@@ -57,7 +57,7 @@ Metriche per valutare le performance del modello, soglie sotto cui bloccare la p
 
 ---
 
-![bg width:1000](assets/experiments.png)
+![bg width:1000](assets/experiments.svg)
 <!-- 
     Ogni esperimento gira su un suo branch, utilizza lo stesso dataset (eventualmente fa delle trasformazioni particolari) e ha una sua pipeline (con le sue metriche di valutazione).
     Quello che viene preferito viene mergiato sul master e gli altri possono essere eliminati 
