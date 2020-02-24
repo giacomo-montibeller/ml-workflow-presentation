@@ -50,7 +50,7 @@ L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo l
 
 ---
 
-![bg fit](assets/tests.png)
+![bg width:1200](assets/tests.png)
 <!-- Validazione dati: formato, range, one-hot encoded solo 0 o 1, engineered features calcolate correttamente, valori mancanti rimpiazzati correttamente.
 Contract testing tra l’applicazione e l’API esposta.
 Metriche per valutare le performance del modello, soglie sotto cui bloccare la pipeline. -->
