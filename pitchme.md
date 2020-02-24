@@ -1,6 +1,7 @@
 ---
 marp: true
-theme: uncover
+theme: gaia
+class: lead
 title: Machine Learning workflow
 description: Created with md-slides-template
 ---
@@ -49,13 +50,15 @@ L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo l
 
 ---
 
-![](assets/tests.png)
+![bg fit](assets/tests.png)
 <!-- Validazione dati: formato, range, one-hot encoded solo 0 o 1, engineered features calcolate correttamente, valori mancanti rimpiazzati correttamente.
 Contract testing tra l’applicazione e l’API esposta.
 Metriche per valutare le performance del modello, soglie sotto cui bloccare la pipeline. -->
 
 ---
 
-![](assets/experiments.png)
-<!-- Ogni esperimento gira su un suo branch, utilizza lo stesso dataset (eventualmente fa delle trasformazioni particolari) e ha una sua pipeline (con le sue metriche di valutazione).
-Quello che viene preferito viene mergiato sul master e gli altri possono essere eliminati -->
+![bg width:1000](assets/experiments.png)
+<!-- 
+    Ogni esperimento gira su un suo branch, utilizza lo stesso dataset (eventualmente fa delle trasformazioni particolari) e ha una sua pipeline (con le sue metriche di valutazione).
+    Quello che viene preferito viene mergiato sul master e gli altri possono essere eliminati 
+-->
