@@ -38,7 +38,7 @@ Estimate size of the machine learning component with respect to the overall ecos
 
 ---
 
-# API | Embedciao
+# API | Embed
 
 ---
 
