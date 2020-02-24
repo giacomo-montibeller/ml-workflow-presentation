@@ -24,7 +24,7 @@ Estimate size of the machine learning component with respect to the overall ecos
 
 ---
 
-![](assets/pipelines.png)
+![bg width:1000](assets/pipelines.svg)
 
 ---
 
