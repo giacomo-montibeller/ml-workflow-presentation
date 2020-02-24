@@ -35,7 +35,7 @@ Vengono gestiti come 3 sistemi diversi in integrazione tra loro. -->
 
 ---
 
-![](assets/data-pipeline.png)
+![bg width:1200](assets/data-pipeline.png)
 <!-- Structured: relational db; semi-structured: XML; unstructured: images
 Questi dati devono essere raccolti e persistiti in qualche modo. Viene poi fatta una analisi esplorativa per iniziare a comprendere se e che tipo di informazioni utili contengono, si fa pulizia di dati corrotti o mancanti, si trasformano delle features per averle nei formati più corretti per i bisogni della prossima pipeline, se necessario si creano o rimuovono features, si visualizzano i dati tramite dei grafici per comprenderli meglio.
 L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo layer. -->
