@@ -10,3 +10,7 @@
 
 [gh_releases]: https://github.com/giacomo-montibeller/ml-workflow-presentation/releases
 [gh_releases_badge]: https://img.shields.io/github/v/release/giacomo-montibeller/ml-workflow-presentation?style=for-the-badge&logo=github
+
+---
+
+How does the management of a machine learning project change compared to "traditional" software development?
