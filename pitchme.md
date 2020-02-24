@@ -42,7 +42,7 @@ L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo l
 
 ---
 
-![](assets/model-pipeline.png)
+![bg width:1000](assets/model-pipeline.svg)
 
 ---
 
