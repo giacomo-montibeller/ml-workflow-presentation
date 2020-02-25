@@ -25,6 +25,10 @@ Estimate size of the machine learning component with respect to the overall ecos
 
 ---
 
+## More Pipelines
+
+---
+
 ![bg width:1000](assets/pipelines.svg)
 
 ---
@@ -36,6 +40,10 @@ Vengono gestiti come 3 sistemi diversi in integrazione tra loro. -->
 
 ---
 
+## Data Pipeline
+
+---
+
 ![bg width:1200](assets/data.svg)
 <!-- Structured: relational db; semi-structured: XML; unstructured: images
 Questi dati devono essere raccolti e persistiti in qualche modo. Viene poi fatta una analisi esplorativa per iniziare a comprendere se e che tipo di informazioni utili contengono, si fa pulizia di dati corrotti o mancanti, si trasformano delle features per averle nei formati più corretti per i bisogni della prossima pipeline, se necessario si creano o rimuovono features, si visualizzano i dati tramite dei grafici per comprenderli meglio.
@@ -43,7 +51,15 @@ L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo l
 
 ---
 
+## Model Pipeline
+
+---
+
 ![bg width:1000](assets/model-pipeline.svg)
+
+---
+
+## Serving
 
 ---
 
@@ -51,10 +67,18 @@ L’artefatto prodotto viene poi versionato (!) e reso disponibile al prossimo l
 
 ---
 
+## Testing
+
+---
+
 ![bg width:1200](assets/tests.png)
 <!-- Validazione dati: formato, range, one-hot encoded solo 0 o 1, engineered features calcolate correttamente, valori mancanti rimpiazzati correttamente.
 Contract testing tra l’applicazione e l’API esposta.
 Metriche per valutare le performance del modello, soglie sotto cui bloccare la pipeline. -->
+
+---
+
+## Experiments
 
 ---
 
